@@ -66,28 +66,6 @@ gcc main.c -o library
 7. Exit
 ```
 
-Example books.txt File
-
-=========================================
-      LIBRARY MANAGEMENT SYSTEM
-=========================================
-
-Total Books : 2
-
-=========================================
-Book 1 Information
-ID     : 101
-Title  : Clean Code
-Author : Robert C. Martin
-=========================================
-
-=========================================
-Book 2 Information
-ID     : 102
-Title  : The Hobbit
-Author : J.R.R. Tolkien
-=========================================
-
 ## Project Description
 
 This project was developed to practice fundamental C programming concepts such as:
